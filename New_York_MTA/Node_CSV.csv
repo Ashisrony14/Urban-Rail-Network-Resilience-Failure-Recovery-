@@ -1,0 +1,464 @@
+ID,Node,Lat,Lon
+1,1 Avenue / 14 Street,-73.982167,40.731432
+2,103 Street / Central Park West,-73.961453,40.796088
+3,103 Street-Corona Plaza,-73.862687,40.749798
+4,103rd Street (Line 4),-73.947679,40.790189
+5,103rd Street / Broadway,-73.968321,40.799149
+6,104 Street / Jamaica Avenue,-73.844331,40.695177
+7,104 Street / Liberty Avenue,-73.838846,40.681332
+8,110th Street (Line 4),-73.944632,40.794823
+9,111 Street (Line 7),-73.855334,40.751729
+10,111 Street / Jamaica Avenue,-73.83707,40.696808
+11,111 Street / Liberty Avenue,-73.830947,40.684892
+12,116 Street,-73.955542,40.804639
+13,116 Street / 8 Avenue,-73.955542,40.80464
+14,116th Street (Line 4),-73.941633,40.798636
+15,116th Street / Lenox Avenue,-73.949745,40.802212
+16,116th Street-Columbia University / Broadway,-73.963581,40.808119
+17,121 Street / Jamaica Avenue,-73.828273,40.700514
+18,125 Street,-73.952832,40.810754
+19,125th Street (Line 4),-73.937221,40.804402
+20,125th Street / Broadway,-73.958193,40.815661
+21,125th Street / Lenox Avenue,-73.945736,40.807698
+22,135 Street,-73.948243,40.817126
+23,135 Street / Saint Nicholas Avenue,-73.948241,40.817125
+24,135th Street / Lenox Avenue,-73.940628,40.814162
+25,137 Street-City College / Broadway,-73.954137,40.821417
+26,138th Street–Grand Concourse,-73.92968,40.813122
+27,14 Street,-74.002804,40.73974
+28,14 Street / 6 Avenue,-73.996979,40.737524
+29,145 Street,-73.94445,40.824044
+30,145th Street (Line 3),-73.93649,40.820371
+31,145th Street / Broadway,-73.950539,40.826642
+32,149th Street-Grand Concourse,-73.927105,40.818421
+33,149th Street–Grand Concourse (Line 4),-73.927246,40.818266
+34,14th Street / 7 Avenue,-73.999719,40.738766
+35,14th Street–Union Square,-73.991058,40.735283
+36,15 Street-Prospect Park / Prospect Park West,-73.979478,40.660673
+37,155 Street / 8 Avenue,-73.936711,40.830327
+38,155 Street / Saint Nicholas Avenue,-73.941562,40.831095
+39,157th Street / Broadway,-73.945093,40.83423
+40,161 Street-Yankee Stadium / River Avenue,-73.925098,40.827532
+41,161st Street–Yankee Stadium,-73.925647,40.827983
+42,163 Street-Amsterdam Avenue / Saint Nicholas Avenue,-73.939892,40.836012
+43,167 Street / Grand Concourse,-73.918156,40.834457
+44,167th Street,-73.9214,40.835536
+45,168 Street-Washington Heights / Broadway,-73.940087,40.841004
+46,169 Street / Hillside Avenue,-73.793604,40.710469
+47,170 Street / Grand Concourse,-73.913353,40.840082
+48,170th Street,-73.917791,40.840075
+49,174-175 Streets / Grand Concourse,-73.909723,40.846507
+50,174th Street / Southern Boulevard,-73.887805,40.837418
+51,175 Street,-73.939371,40.847949
+52,176th Street,-73.911794,40.848479
+53,18 Avenue / 64 Street,-73.989482,40.62009
+54,18 Avenue / McDonald Avenue,-73.97715,40.630533
+55,18 Avenue / New Utrecht Avenue,-74.001736,40.607952
+56,181 Street,-73.937411,40.852916
+57,181st Street / Saint Nicholas Avenue ,-73.933323,40.849561
+58,182-183 Streets / Grand Concourse,-73.90074,40.856091
+59,183rd Street,-73.90388,40.858406
+60,18th Street / 7 Avenue,-73.997871,40.741039
+61,190 Street,-73.934067,40.85898
+62,191st Street / Saint Nicholas Avenue ,-73.929521,40.855361
+63,2 Avenue / Houston Street,-73.991292,40.723937
+64,20 Avenue / 64 Street,-73.984992,40.617396
+65,20 Avenue / 86 Street,-73.998184,40.604563
+66,207th Street / 10 Avenue,-73.919063,40.864467
+67,21 Street / Jackson Avenue,-73.948674,40.74476
+68,21 Street-Queensbridge / 41 Avenue,-73.942474,40.754177
+69,215th Street / 10 Avenue,-73.915318,40.869605
+70,219th Street / White Plains Road,-73.862715,40.883838
+71,225th Street / White Plains Road,-73.860342,40.888021
+72,23 Street,-73.998236,40.745198
+73,23 Street / 6 Avenue,-73.993034,40.743034
+74,23 Street / Broadway,-73.988999,40.741545
+75,231st Street / Broadway,-73.904946,40.878992
+76,233rd Street / White Plains Road,-73.857474,40.893192
+77,238th Street / Broadway,-73.90087,40.884666
+78,23rd Street (Line 4),-73.986338,40.739999
+79,23rd Street / 7 Avenue,-73.995657,40.74408
+80,25 Avenue / 86 Street,-73.98677,40.597661
+81,25 Street / 4 Avenue,-73.99809,40.660396
+82,28 Street / Broadway,-73.988541,40.745296
+83,28th Street (Line 4),-73.983863,40.743308
+84,28th Street / 7 Avenue,-73.993114,40.747222
+85,3 Avenue / 14 Street,-73.987077,40.733166
+86,3 Avenue-138 Street,-73.926103,40.810464
+87,30 Avenue / 31 Street,-73.921575,40.766801
+88,33 Street,-73.931099,40.744677
+89,33rd Street,-73.981888,40.746656
+90,34 St-Herald Square / 6 Avenue,-73.988132,40.750081
+91,34 St-Hudson Yards,-74.001006,40.75497
+92,34 Street-Penn Station,-73.993334,40.752011
+93,34th Street-Penn Station / 7 Avenue,-73.990436,40.750752
+94,36 Avenue / 31 Street,-73.929767,40.756613
+95,36 Street / 4 Avenue,-74.004478,40.654477
+96,36 Street / Northern Boulevard,-73.928765,40.752231
+97,39 Avenue / 31 Street,-73.932913,40.752493
+98,4 Avenue / 9 Street,-73.988751,40.670575
+99,40 Street,-73.924164,40.743865
+100,42 St-Bryant Park / 6 Avenue,-73.984198,40.755041
+101,42 Street-Port Authority Bus Terminal,-73.989979,40.757464
+102,42 Street-Times Square / Broadway-7 Avenue,-73.986335,40.755615
+103,45 Street / 4 Avenue,-74.010007,40.648939
+104,46 Street,-73.918205,40.743061
+105,46 Street / Broadway,-73.914396,40.756629
+106,47-50 Street-Rockefeller Center / 6 Avenue,-73.981791,40.757827
+107,49 Street / 7 Avenue,-73.983548,40.760373
+108,5 Avenue / 53 Street,-73.975541,40.760208
+109,5 Avenue / 59 Street,-73.97472,40.765238
+110,5 Avenue- Bryant Park,-73.981963,40.753819
+111,50 Street,-73.986247,40.762503
+112,50 Street / New Utrecht Avenue,-73.99479,40.636259
+113,50th Street / Broadway,-73.983731,40.761353
+114,51st Street,-73.97215,40.757149
+115,52 Street,-73.918206,40.74306
+116,53 Street / 4 Avenue,-74.014379,40.644505
+117,55 Street / New Utrecht Avenue,-73.995477,40.631435
+118,57 Street / 6 Avenue,-73.977343,40.763901
+119,57 Street / 7 Avenue,-73.980303,40.76553
+120,59 Street / 4 Avenue,-74.017854,40.641638
+121,59 Street-Columbus Circle / 8 Avenue,-73.981582,40.768704
+122,59th Street,-73.967867,40.762987
+123,59th Street-Columbus Circle / Broadway,-73.982115,40.768779
+124,62 Street / New Utrecht Avenue,-73.996742,40.627323
+125,63 Drive-Rego Park / Queens Boulevard,-73.861762,40.72962
+126,65 Street / Broadway,-73.897465,40.749136
+127,66th Street-Lincoln Center / Broadway,-73.982017,40.773587
+128,67 Avenue / Queens Boulevard,-73.851611,40.726388
+129,68th Street–Hunter College,-73.96387,40.76814
+130,69 Street,-73.902915,40.745671
+131,7 Avenue / 53 Street,-73.981593,40.762928
+132,7 Avenue / 9 Street,-73.98133,40.667025
+133,7 Avenue / Flatbush Avenue,-73.972667,40.677465
+134,71 Street / New Utrecht Avenue,-73.998864,40.619588
+135,72 Street / 2 Avenue,-73.958427,40.768654
+136,72 Street / Central Park West,-73.976243,40.776214
+137,72nd Street / Broadway,-73.981852,40.77899
+138,74 Street-Broadway,-73.89143,40.747039
+139,75 Avenue / Queens Boulevard,-73.837325,40.71833
+140,75 Street-Elderts Lane / Jamaica Avenue,-73.867224,40.691373
+141,77 Street / 4 Avenue,-74.025743,40.629537
+142,77th Street,-73.959742,40.773516
+143,79 Street / New Utrecht Avenue,-74.000565,40.613979
+144,79th Street / Broadway,-73.979917,40.783934
+145,8 Avenue / 62 Street,-74.01081,40.634596
+146,8 Street-New York University / Broadway,-73.99267,40.730625
+147,80 Street / Liberty Avenue,-73.859026,40.679437
+148,81 Street-Museum of Natural History / Central Park West,-73.972014,40.781978
+149,82 Street-Jackson Heights,-73.884044,40.747803
+150,85 Street-Forest Parkway / Jamaica Avenue,-73.86001,40.692434
+151,86 Street / 2 Avenue,-73.951473,40.77788
+152,86 Street / 4 Avenue,-74.028398,40.622687
+153,86 Street / Central Park West,-73.969625,40.785244
+154,86 Street / West 7 Street,-73.978231,40.59272
+155,86th Street (Line 4),-73.955829,40.779458
+156,86th Street / Broadway,-73.97611,40.788294
+157,88 Street / Liberty Avenue,-73.85147,40.679842
+158,9 Avenue / 39 Street,-73.994324,40.646292
+159,90 Street-Elmhurst Avenue,-73.8765,40.74841
+160,96 Street / 2 Avenue,-73.947588,40.783915
+161,96 Street / Central Park West,-73.964845,40.791602
+162,96th Street (Line 4),-73.950925,40.785681
+163,96th Street / Broadway,-73.972138,40.79419
+164,Alabama Avenue / Fulton Street,-73.899394,40.676893
+165,Allerton Avenue / White Plains Road,-73.867244,40.865441
+166,Aqueduct Racetrack,-73.835796,40.672192
+167,Aqueduct-North Conduit Avenue,-73.834651,40.669204
+168,Astor Place,-73.990843,40.730094
+169,Astoria Boulevard / 31 Street,-73.917843,40.770257
+170,Astoria-Ditmars Boulevard / 31 Street,-73.912035,40.775035
+171,Atlantic Avenue / Barclays Center(2),-73.976583,40.68346
+172,Atlantic Avenue / Barclays Center(B),-73.977605,40.685255
+173,Atlantic Avenue / Barclays Center / 4 Avenue,-73.978865,40.683936
+174,Atlantic Avenue / Snediker Avenue / Van Sinderen Avenue,-73.903097,40.675344
+175,Avenue H / East 16 Street,-73.961872,40.629933
+176,Avenue I / McDonald Avenue,-73.976156,40.626075
+177,Avenue J / East 16 Street,-73.960777,40.625258
+178,Avenue M / East 16 Street,-73.9594,40.617617
+179,Avenue N / McDonald Avenue,-73.974198,40.615139
+180,Avenue P / McDonald Avenue,-73.972975,40.608818
+181,Avenue U / East 16 Street,-73.955929,40.599299
+182,Avenue U / McDonald Avenue,-73.973366,40.596037
+183,Avenue U / West 7 Street,-73.978946,40.596504
+184,Avenue X / McDonald Avenue,-73.974251,40.589619
+185,Bay 50 Street / Stillwell Avenue,-73.983765,40.58884
+186,Bay Parkway / 86 Street,-73.993718,40.601873
+187,Bay Parkway / McDonald Avenue,-73.975363,40.620981
+188,Bay Parkway / West 7 Street,-73.982051,40.612881
+189,Bay Ridge Avenue / 4 Avenue,-74.023377,40.634967
+190,Bay Ridge-95 Street / 4 Avenue,-74.031239,40.616175
+191,Baychester Avenue,-73.837953,40.879577
+192,Beach 105 Street / Rockaway Freeway,-73.827375,40.583205
+193,Beach 25 Street / Rockaway Freeway,-73.76179,40.599677
+194,Beach 36 Street / Rockaway Freeway,-73.768126,40.595533
+195,Beach 44 Street / Rockaway Freeway,-73.775983,40.592906
+196,Beach 60 Street / Rockaway Freeway,-73.788521,40.592373
+197,Beach 67 Street / Rockaway Freeway,-73.79631,40.590924
+198,Beach 90 Street / Rockaway Freeway,-73.814135,40.587915
+199,Beach 98 Street / Rockaway Freeway,-73.820429,40.585522
+200,Bedford Avenue / North 7 Street,-73.957519,40.717793
+201,Bedford Park Boulevard / Grand Concourse,-73.887473,40.872158
+202,Bedford Park Boulevard–Lehman College,-73.890178,40.873327
+203,Bedford-Nostrand Avenues / Lafayette Avenue,-73.95161,40.689975
+204,Bergen Street / Flatbush Avenue,-73.975098,40.680828
+205,Bergen Street / Smith Street,-73.990529,40.686893
+206,Beverley Road / East 16 Street,-73.964497,40.644229
+207,Beverly Road / Nostrand Avenue,-73.948959,40.645097
+208,Bleecker Street,-73.994757,40.726051
+209,Borough Hall (Line 4),-73.990157,40.692387
+210,Borough Hall / Court Street-Montague Street,-73.990298,40.693595
+211,Botanic Garden Eastern Parkway Franklin Avenue,-73.95911,40.670626
+212,Bowery / Delancey Street,-73.993442,40.720313
+213,Bowling Green,-74.013544,40.704634
+214,Briarwood / Main Street,-73.81994,40.70928
+215,Brighton Beach / Brighton 6 Street,-73.961276,40.577665
+216,Broad Channel,-73.815912,40.60838
+217,Broad Street / Wall Street,-74.010884,40.707015
+218,Broadway / 31 Street,-73.925409,40.761982
+219,Broadway / Union Avenue,-73.950083,40.705569
+220,Broadway Junction (East New York) / Fulton Street,-73.904003,40.678329
+221,Broadway Junction (Fulton Street),-73.903287,40.678642
+222,Broadway-Lafayette St / Bleecker St,-73.995493,40.725322
+223,Bronx Park East / White Plains Road,-73.868457,40.848828
+224,Brook Avenue,-73.919345,40.807748
+225,Brooklyn Bridge–City Hall,-74.004889,40.712768
+226,Buhre Avenue,-73.832569,40.846809
+227,Burke Avenue / White Plains Road,-73.867164,40.871356
+228,Burnside Avenue,-73.907685,40.853452
+229,Bushwick Avenue-Aberdeen Street,-73.905144,40.682316
+230,Canal Street (Line 4),-74.000599,40.718615
+231,Canal Street / 6 Avenue,-74.005409,40.720778
+232,Canal Street / Broadway,-74.001786,40.719513
+233,Canal Street / Centre Street,-74.000261,40.717831
+234,Canal Street / Varick Street,-74.006277,40.722854
+235,Canarsie-Rockaway Parkway / Glenwood Road,-73.901948,40.646569
+236,Carroll Street / Smith Street,-73.995775,40.67925
+237,Castle Hill Avenue,-73.851545,40.834289
+238,Cathedral Parkway (110 Street) / Central Park West,-73.95848,40.799983
+239,Cathedral Parkway (110th Street) / Broadway,-73.966393,40.804255
+240,Central Avenue / Myrtle Avenue,-73.927397,40.697857
+241,Central Park North (110th Street) / Lenox Avenue,-73.952614,40.798482
+242,Chambers Street / Centre Street,-74.003188,40.714168
+243,Chambers Street / Church Street,-74.009047,40.713747
+244,Chambers Street / West Broadway,-74.009327,40.715794
+245,Chauncey Street / Broadway,-73.910457,40.682893
+246,Christopher Street-Sheridan Square / 7 Avenue South,-74.003076,40.733468
+247,Church Avenue / East 18 Street,-73.963284,40.649523
+248,Church Avenue / McDonald Avenue,-73.979352,40.643175
+249,Church Avenue / Nostrand Avenue,-73.949575,40.650842
+250,City Hall / Broadway,-74.006737,40.713469
+251,Clark Street / Henry Street,-73.992979,40.69772
+252,Classon Avenue / Lafayette Avenue,-73.96007,40.688872
+253,Cleveland Street / Fulton Street,-73.884639,40.679946
+254,Clinton-Washington Avenues,-73.966781,40.683613
+255,Clinton-Washington Avenues / Lafayette Avenue,-73.96755,40.68809
+256,Coney Island - Stillwell Avenue / Surf Avenue,-73.981171,40.577114
+257,Cortelyou Road / East 16 Street,-73.963937,40.641267
+258,Cortlandt Street / Church Street,-74.010694,40.710836
+259,Court Sq(7),-73.94571,40.746209
+260,Court Sq(G),-73.943833,40.746552
+261,Court Sq-23 St / 44 Drive,-73.947207,40.747955
+262,Court Street / Montague Street,-73.992678,40.694409
+263,Crescent Street / Fulton Street,-73.872627,40.683453
+264,Crown Heights–Utica Avenue,-73.931835,40.668935
+265,Cypress Avenue,-73.914042,40.805367
+266,Cypress Hills / Jamaica Avenue,-73.87255,40.689941
+267,DeKalb Avenue / Flatbush Avenue,-73.981175,40.68981
+268,DeKalb Avenue / Wyckoff Avenue,-73.918425,40.70381
+269,Delancey Street / Essex Street,-73.98824,40.718803
+270,Ditmas Avenue / McDonald Avenue,-73.978255,40.635453
+271,Dyckman Street (Line A),-73.927071,40.865743
+272,Dyckman Street / Nagle Avenue,-73.92515,40.860951
+273,East 105 Street / Turnbull Avenue,-73.899486,40.650571
+274,East 143 Street - Saint Mary's Street,-73.907632,40.808349
+275,East 149 Street,-73.904141,40.811894
+276,East 180th Street / Morris Park Avenue,-73.87346,40.841922
+277,East Broadway / Canal Street-Rutgers Street,-73.98992,40.714402
+278,Eastchester-Dyre Avenue,-73.830834,40.888299
+279,Eastern Parkway-Brooklyn Museum,-73.96432,40.6718
+280,Elder Avenue,-73.879131,40.828581
+281,Elmhurst Avenue / Broadway,-73.88303,40.742813
+282,Essex Street / Delancey Street,-73.987185,40.718419
+283,Euclid Avenue/ Pitkin Avenue,-73.872106,40.675376
+284,Far Rockaway-Mott Avenue,-73.755405,40.603994
+285,Flatbush Avenue-Brooklyn College / Nostrand Avenue,-73.947643,40.632836
+286,Flushing Avenue / Broadway,-73.941931,40.700721
+287,Flushing Avenue / Marcy Avenue,-73.950179,40.699609
+288,Flushing-Main Street,-73.829979,40.759698
+289,Fordham Road,-73.901114,40.862868
+290,Fordham Road / Grand Concourse,-73.897749,40.861295
+291,Forest Avenue / 67 Avenue,-73.903079,40.704422
+292,Forest Hills-71 Avenue / Queens Boulevard,-73.844767,40.721498
+293,Fort Hamilton Parkway / 62 Street,-74.006588,40.632127
+294,Fort Hamilton Parkway / New Utrecht Avenue,-73.994298,40.640913
+295,Fort Hamilton Parkway / Prospect Avenue,-73.975768,40.649767
+296,Franklin Avenue / Eastern Parkway,-73.958132,40.670681
+297,Franklin Avenue / Fulton Street,-73.955786,40.681156
+298,Franklin Avenue Fulton Street,-73.955827,40.680595
+299,Franklin Street / Varick Street,-74.007063,40.719276
+300,Freeman Street / Southern Boulevard,-73.891837,40.830139
+301,Fresh Pond Road / 67 Avenue,-73.895752,40.706281
+302,Fulton Street (Line 4),-74.009748,40.710411
+303,Fulton Street / Broadway/Nassau St / William St,-74.007453,40.710152
+304,Fulton Street / Lafayette Avenue,-73.974746,40.687369
+305,Fulton Street / Nassau Street,-74.008327,40.709372
+306,Fulton Street / William St,-74.006089,40.70951
+307,Gates Avenue / Broadway,-73.922269,40.689629
+308,Graham Avenue / Metropolitan Avenue,-73.944288,40.714642
+309,Grand Army Plaza / Flatbush Avenue,-73.97084,40.675138
+310,Grand Avenue-Newtown / Queens Boulevard,-73.877205,40.737362
+311,Grand Central–42nd Street,-73.97747,40.752395
+312,Grand Street / Bushwick Avenue,-73.940456,40.711909
+313,Grand Street / Chrystie Street,-73.993592,40.718207
+314,Grant Avenue/ Pitkin Avenue,-73.865353,40.676881
+315,Greenpoint Avenue / Manhattan Avenue,-73.954057,40.730144
+316,Gun Hill Road (Line 5),-73.845896,40.870069
+317,Gun Hill Road / White Plains Road,-73.866308,40.877759
+318,Halsey Street / Broadway,-73.915741,40.686004
+319,Halsey Street / Wyckoff Avenue,-73.905129,40.695907
+320,Harlem–148th Street,-73.936939,40.82405
+321,Hewes Street / Broadway,-73.95432,40.707249
+322,High Street,-73.991408,40.699429
+323,Houston Street / Varick Street,-74.005367,40.72825
+324,Howard Beach-JFK Airport / 159 Avenue,-73.830301,40.660475
+325,Hoyt Street / Fulton Mall,-73.985066,40.690544
+326,Hoyt Street-Schermerhorn Street,-73.985312,40.688821
+327,Hunters Point Avenue,-73.948158,40.742416
+328,Hunts Point Avenue,-73.890473,40.820819
+329,Intervale Avenue / Westchester Avenue,-73.896737,40.822248
+330,Inwood-207 Street,-73.921235,40.867898
+331,Jackson Avenue / Westchester Avenue,-73.908014,40.816228
+332,Jackson Heights-Roosevelt Avenue / Broadway,-73.89086,40.746688
+333,Jamaica Center-Parsons/Archer,-73.801825,40.701855
+334,Jamaica-179 Street / Hillside Avenue,-73.783371,40.7126
+335,Jamaica-Van Wyck / Queens Boulevard,-73.817211,40.702716
+336,Jay Street-MetroTech,-73.987203,40.69233
+337,Jay Street-MetroTech / Fulton Street,-73.986098,40.692191
+338,Jefferson Street / Wyckoff Avenue,-73.922088,40.706308
+339,Junction Boulevard,-73.869338,40.749202
+340,Junius Street,-73.902448,40.663515
+341,Kew Gardens-Union Turnpike / Queens Boulevard,-73.83107,40.713977
+342,Kings Highway / East 16 Street,-73.957815,40.608673
+343,Kings Highway / McDonald Avenue,-73.972361,40.603216
+344,Kings Highway / West 7 Street,-73.980353,40.603922
+345,Kingsbridge Road,-73.897174,40.86776
+346,Kingsbridge Road / Grand Concourse,-73.893954,40.866241
+347,Kingston Avenue,-73.942445,40.66929
+348,Kingston-Throop Avenues,-73.940858,40.67992
+349,Knickerbocker Avenue / Myrtle Avenue,-73.919712,40.698664
+350,Kosciuszko Street / Broadway,-73.928814,40.693342
+351,Lafayette Avenue,-73.972776,40.685832
+352,Lexington Av / 63 Street,-73.966398,40.764878
+353,Lexington Avenue / 53 Street,-73.969075,40.757698
+354,Lexington Avenue / 59 Street,-73.967528,40.762841
+355,Liberty Avenue / Pennsylvania Avenue,-73.896548,40.674541
+356,Livonia Avenue / Van Sinderen Avenue,-73.900571,40.664037
+357,Longwood Avenue,-73.896436,40.816103
+358,Lorimer Street / Broadway,-73.948141,40.704332
+359,Lorimer Street / Metropolitan Avenue,-73.949301,40.714197
+360,Marble Hill–225th Street / Broadway,-73.909831,40.87456
+361,Marcy Avenue / Broadway,-73.957912,40.708554
+362,Metropolitan Avenue / Grand Street,-73.951748,40.713754
+363,Mets-Willets Point,-73.845734,40.754716
+364,Middle Village-Metropolitan Avenue,-73.889277,40.712132
+365,Middletown Road,-73.836338,40.843874
+366,Montrose Avenue / Bushwick Avenue,-73.93985,40.707737
+367,Morgan Avenue / Harrison Place,-73.933711,40.706075
+368,Morris Park,-73.860496,40.854362
+369,Morrison - Sound View Avenues,-73.874601,40.829535
+370,Mosholu Parkway,-73.884656,40.879748
+371,Mount Eden Avenue,-73.914686,40.844433
+372,Myrtle Avenue / Broadway,-73.935601,40.697005
+373,Myrtle-Willoughby Avenues / Marcy Avenue,-73.948985,40.695492
+374,Myrtle-Wyckoff Avenues,-73.911349,40.699779
+375,Myrtle-Wyckoff Avenues / Myrtle Avenue,-73.911483,40.699643
+376,Nassau Avenue / Manhattan Avenue,-73.950634,40.723912
+377,Neck Road / East 16 Street,-73.955162,40.595244
+378,Neptune Avenue / West 6 Street,-73.974574,40.58101
+379,Nereid Avenue / White Plains Road,-73.854339,40.898252
+380,Nevins Street / Flatbush Avenue,-73.980492,40.688245
+381,New Lots Avenue,-73.883715,40.6663
+382,New Lots Avenue / Van Sinderen Avenue,-73.899248,40.658884
+383,New Utrecht Avenue / 62 Street,-73.996835,40.625594
+384,Newkirk Avenue / Nostrand Avenue,-73.948626,40.639896
+385,Newkirk Plaza / East 16 Street,-73.962777,40.634966
+386,Northern Boulevard / Broadway,-73.907102,40.753103
+387,Norwood Avenue / Fulton Street,-73.88004,40.681409
+388,Norwood-205 Street / Bainbridge Avenue,-73.877528,40.87427
+389,Nostrand Avenue,-73.950772,40.669747
+390,Nostrand Avenue / Fulton Street,-73.94972,40.680576
+391,Ocean Parkway/ Brighton Beach Avenue,-73.968501,40.576311
+392,Ozone Park-Lefferts Boulevard / Liberty Avenue,-73.825797,40.68595
+393,Park Place / Broadway,-74.007798,40.712724
+394,Park Place Franklin Avenue Classon Avenue,-73.957626,40.674771
+395,Parkchester,-73.860919,40.833253
+396,Parkside Avenue / Ocean Avenue,-73.961496,40.655292
+397,Parsons Boulevard / Hillside Avenue,-73.802809,40.707466
+398,Pelham Bay Park,-73.82709,40.852932
+399,Pelham Parkway (Line 5),-73.85546,40.858859
+400,Pelham Parkway / White Plains Road,-73.867669,40.857132
+401,Pennsylvania Avenue,-73.894896,40.664634
+402,President Street / Nostrand Avenue,-73.950684,40.667882
+403,Prince Street / Broadway,-73.997665,40.724106
+404,Prospect Avenue / 4 Avenue,-73.992912,40.665424
+405,Prospect Avenue / Westchester Avenue,-73.901769,40.819584
+406,Prospect Park / Empire Boulevard-Flatbush Avenue,-73.962149,40.66087
+407,Queens Plaza / Queens Boulevard,-73.937378,40.748725
+408,Queensboro Plaza,-73.940203,40.750581
+409,Ralph Avenue / Fulton Street,-73.921514,40.678738
+410,Rector Street,-74.013526,40.708011
+411,Rector Street / Trinity Place,-74.013342,40.707219
+412,Rockaway Avenue,-73.908904,40.662574
+413,Rockaway Avenue / Fulton Street,-73.910773,40.678491
+414,Rockaway Boulevard / Liberty Avenue,-73.843866,40.680434
+415,Rockaway Park / Beach 116 Street,-73.837425,40.580546
+416,Roosevelt Island,-73.953254,40.759138
+417,Saint Lawrence Avenue,-73.867426,40.831492
+418,Saratoga Avenue,-73.916018,40.66156
+419,Seneca Avenue / Palmetto Street,-73.907739,40.702761
+420,Sheepshead Bay / East 16 Street,-73.954155,40.586895
+421,Shepherd Avenue/ Pitkin Avenue,-73.88075,40.674129
+422,Simpson Street / Westchester Avenue,-73.89289,40.824369
+423,Smith-9 Streets,-73.99704,40.674604
+424,South Ferry,-74.012978,40.701743
+425,Spring Street,-73.996799,40.722096
+426,Spring Street / 6 Avenue,-74.004011,40.726205
+427,Steinway Street / Broadway,-73.920619,40.756661
+428,Sterling Street / Nostrand Avenue,-73.951042,40.663288
+429,Sutphin Boulevard / Archer Avenue / JFK Airport,-73.807909,40.700415
+430,Sutphin Boulevard / Hillside Avenue,-73.80971,40.705551
+431,Sutter Avenue / Van Sinderen Avenue,-73.901976,40.669366
+432,Sutter Avenue–Rutland Road,-73.922862,40.665034
+433,Third Avenue-149th Street,-73.917792,40.816249
+434,Times Square-42 Street (Line 7),-73.987403,40.755222
+435,Times Square-42 Street / Broadway,-73.987096,40.754336
+436,Times Square-42nd Street / 7 Avenue-Broadway,-73.987332,40.756304
+437,Tremont Avenue / Grand Concourse,-73.905228,40.850409
+438,Union Street / 4 Avenue,-73.983048,40.677151
+439,Utica Avenue / Fulton Street,-73.929859,40.679499
+440,Van Cortlandt Park–242nd Street / Broadway,-73.898241,40.889958
+441,Van Siclen Avenue,-73.888487,40.665588
+442,Van Siclen Avenue / Fulton Street,-73.891616,40.677779
+443,Van Siclen Avenue / Pitkin Avenue,-73.890567,40.67278
+444,Vernon Boulevard-Jackson Avenue,-73.953913,40.742758
+445,Wakefield-241st Street / White Plains Road,-73.850551,40.903189
+446,Wall Street (Line 4),-74.011976,40.707609
+447,Wall Street / William Street,-74.008649,40.706663
+448,Washington Hts-168 Street,-73.939442,40.84072
+449,West 4 Street,-74.001221,40.731105
+450,West 8 Street-New York Aquarium / Surf Avenue,-73.975967,40.576127
+451,West Farms Square-East Tremont Avenue / Boston Road,-73.879595,40.840548
+452,Westchester Square - East Tremont Avenue,-73.842846,40.840149
+453,Whitehall Street South Ferry / Water Street,-74.012909,40.701739
+454,Whitlock Avenue,-73.886042,40.827311
+455,Wilson Avenue / Moffat Street,-73.904046,40.688763
+456,Winthrop Street / Nostrand Avenue,-73.949999,40.657186
+457,Woodhaven Boulevard / Jamaica Avenue,-73.851505,40.693877
+458,Woodhaven Boulevard / Queens Boulevard,-73.87033,40.733048
+459,Woodlawn,-73.878751,40.886036
+460,Woodside-61Street,-73.912474,40.744097
+461,World Trade Center / Church Street,-74.0102,40.711804
+462,York Street / Jay Street,-73.986604,40.70135
+463,Zerega Avenue,-73.846667,40.836658

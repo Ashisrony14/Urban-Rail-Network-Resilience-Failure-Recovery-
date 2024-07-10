@@ -1,0 +1,168 @@
+﻿Type,Source,Node1,Target,Node2
+T1 NSL,Central,23,Town Hall,115
+T1 NSL,Town Hall,115,Wynyard,131
+T1 NSL,Wynyard,131,Milsons Point,74
+T1 NSL,Milsons Point,74,North Sydney,84
+T1 NSL,North Sydney,84,Waverton,122
+T1 NSL,Waverton,122,Wollstonecraft,129
+T1 NSL,Wollstonecraft,129,St Leonards,106
+T1 NSL,St Leonards,106,Artarmon,3
+T1 NSL,Artarmon,3,Chatswood,24
+T1 NSL,Chatswood,24,Roseville,102
+T1 NSL,Roseville,102,Lindfield,65
+T1 NSL,Lindfield,65,Killara,56
+T1 NSL,Killara,56,Gordon,43
+T1 NSL,Gordon,43,Pymble,94
+T1 NSL,Pymble,94,Turramurra,116
+T1 NSL,Turramurra,116,Warrawee,120
+T1 NSL,Warrawee,120,Wahroonga,118
+T1 NSL,Wahroonga,118,Waitara,119
+T1 NSL,Waitara,119,Hornsby,50
+T1 NSL,Hornsby,50,Asquith,5
+T1 NSL,Asquith,5,Mount Colah,78
+T1 NSL,Mount Colah,78,Mount Kuring-Gai,79
+T1 NSL,Mount Kuring-Gai,79,Berowra,11
+T1 WL,Richmond,98,East Richmond,35
+T1 WL,East Richmond,35,Clarendon,27
+T1 WL,Clarendon,27,Windsor,127
+T1 WL,Windsor,127,Mulgrave,80
+T1 WL,Mulgrave,80,Vineyard,117
+T1 WL,Vineyard,117,Riverstone,99
+T1 WL,Riverstone,99,Schofields,103
+T1 WL,Schofields,103,Quakers Hill,95
+T1 WL,Quakers Hill,95,Marayong,68
+T1 WL,Marayong,68,Blacktown,12
+T1 WL,Blacktown,12,Seven Hills,104
+T1 WL,Seven Hills,104,Toongabbie,114
+T1 WL,Toongabbie,114,Pendle Hill,89
+T1 WL,Pendle Hill,89,Wentworthville,123
+T1 WL,Wentworthville,123,Westmead,125
+T1 WL,Westmead,125,Parramatta,88
+T1 WL,Parramatta,88,Harris Park,48
+T1 WL,Harris Park,48,Granville,44
+T1 WL,Granville,44,Clyde,28
+T1 WL,Clyde,28,Auburn,6
+T1 WL,Auburn,6,Lidcombe,64
+T1 WL,Lidcombe,64,Strathfield,108
+T1 WL,Strathfield,108,Redfern,96
+T1 WL,Redfern,96,Central,23
+T2,Central,23,Town Hall,115
+T2,Town Hall,115,Wynyard,131
+T2,Wynyard,131,Circular Quay,26
+T2,Circular Quay,26,St James,105
+T2,St James,105,Museum,81
+T2,Museum,81,Central,23
+T2,Central,23,Redfern,96
+T2,Redfern,96,Petersham,92
+T2,Petersham,92,Lewisham,63
+T2,Lewisham,63,Summer Hill,109
+T2,Summer Hill,109,Ashfield,4
+T3,Central,23,Museum,81
+T3,Museum,81,St James,105
+T3,St James,105,Circular Quay,26
+T3,Circular Quay,26,Wynyard,131
+T3,Wynyard,131,Town Hall,115
+T3,Town Hall,115,Central,23
+T3,Central,23,Redfern,96
+T3,Redfern,96,Erskineville,40
+T3,Erskineville,40,St Peters,107
+T3,St Peters,107,Sydenham,111
+T3,Sydenham,111,Marrickville,69
+T3,Marrickville,69,Dulwich Hill,34
+T3,Dulwich Hill,34,Hurlstone Park,51
+T3,Hurlstone Park,51,Canterbury,19
+T3,Canterbury,19,Campsie,17
+T3,Campsie,17,Belmore,10
+T3,Belmore,10,Lakemba,60
+T3,Lakemba,60,Wiley Park,126
+T3,Wiley Park,126,Punchbowl,93
+T3,Punchbowl,93,Bankstown,8
+T4,Cronulla,31,Woolooware,130
+T4,Woolooware,130,Caringbah,20
+T4,Caringbah,20,Miranda,76
+T4,Miranda,76,Gymea,47
+T4,Gymea,47,Kirrawee,58
+T4,Kirrawee,58,Sutherland,110
+T4,Sutherland,110,Jannali,55
+T4,Jannali,55,Como,29
+T4,Como,29,Oatley,85
+T4,Oatley,85,Mortdale,77
+T4,Mortdale,77,Penshurst,91
+T4,Penshurst,91,Hurstville,52
+T4,Hurstville,52,Allawah,1
+T4,Allawah,1,Carlton,21
+T4,Carlton,21,Kogarah,59
+T4,Kogarah,59,Rockdale,101
+T4,Rockdale,101,Banksia,7
+T4,Banksia,7,Arncliffe,2
+T4,Arncliffe,2,Wolli Creek,128
+T4,Wolli Creek,128,Tempe,112
+T4,Tempe,112,Sydenham,111
+T4,Sydenham,111,Redfern,96
+T4,Redfern,96,Central,23
+T4,Central,23,Town Hall,115
+T4,Town Hall,115,Martin Place,70
+T4,Martin Place,70,Kings Cross,57
+T4,Kings Cross,57,Edgecliff,37
+T4,Edgecliff,37,Bondi Junction,13
+T5,Leppington,61,Edmondson Park,38
+T5,Edmondson Park,38,Glenfield,42
+T5,Glenfield,42,Casula,22
+T5,Casula,22,Liverpool,66
+T5,Liverpool,66,Warwick Farm,121
+T5,Warwick Farm,121,Cabramatta,15
+T5,Cabramatta,15,Canley Vale,18
+T5,Canley Vale,18,Fairfield,41
+T5,Fairfield,41,Yennora,132
+T5,Yennora,132,Guildford,46
+T5,Guildford,46,Merrylands,73
+T5,Merrylands,73,Harris Park,48
+T5,Harris Park,48,Parramatta,88
+T5,Parramatta,88,Westmead,125
+T5,Westmead,125,Wentworthville,123
+T5,Wentworthville,123,Pendle Hill,89
+T5,Pendle Hill,89,Toongabbie,114
+T5,Toongabbie,114,Seven Hills,104
+T5,Seven Hills,104,Blacktown,12
+T7,Strathfield,108,Olympic Park,86
+T8,Central,23,Town Hall,115
+T8,Town Hall,115,Wynyard,131
+T8,Wynyard,131,Circular Quay,26
+T8,Circular Quay,26,St James,105
+T8,St James,105,Museum,81
+T8,Museum,81,Central,23
+T8,Central,23,Green Square,45
+T8,Green Square,45,Mascot,71
+T8,Mascot,71,Domestic Airport,33
+T8,Domestic Airport,33,International Airport,54
+T8,International Airport,54,Wolli Creek,128
+T8,Wolli Creek,128,Riverwood,100
+T8,Riverwood,100,Padstow,87
+T8,Padstow,87,Holsworthy,49
+T8,Holsworthy,49,Glenfield,42
+T8,Glenfield,42,Macquarie Fields,67
+T8,Macquarie Fields,67,Ingleburn,53
+T8,Ingleburn,53,Minto,75
+T8,Minto,75,Leumeah,62
+T8,Leumeah,62,Campbelltown,16
+T9,Central,23,Redfern,96
+T9,Redfern,96,Burwood,14
+T9,Burwood,14,Strathfield,108
+T9,Strathfield,108,North Strathfield,83
+T9,North Strathfield,83,Concord West,30
+T9,Concord West,30,Rhodes,97
+T9,Rhodes,97,Meadowbank,72
+T9,Meadowbank,72,West Ryde,124
+T9,West Ryde,124,Denistone,32
+T9,Denistone,32,Eastwood,36
+T9,Eastwood,36,Epping,39
+T9,Epping,39,Cheltenham,25
+T9,Cheltenham,25,Beecroft,9
+T9,Beecroft,9,Pennant Hills,90
+T9,Pennant Hills,90,Thornleigh,113
+T9,Thornleigh,113,Normanhurst,82
+T9,Normanhurst,82,Hornsby,50
+T9,Hornsby,50,Asquith,5
+T9,Asquith,5,Mount Colah,78
+T9,Mount Colah,78,Mount Kuring-Gai,79
+T9,Mount Kuring-Gai,79,Berowra,11

@@ -1,0 +1,125 @@
+Line,Source,Node1,Target,Node2
+Cape Flat,Cape Town,11,Woodstock,99
+Cape Flat,Woodstock,99,Salt River,78
+Cape Flat,Salt River,78,Koeberg Rd,41
+Cape Flat,Koeberg Rd,41,Maitland,50
+Cape Flat,Maitland,50,Ndabeni,60
+Cape Flat,Ndabeni,60,Pinelands,72
+Cape Flat,Pinelands,72,Hazendal,31
+Cape Flat,Hazendal,31,Athlone,3
+Cape Flat,Athlone,3,Crawford,15
+Cape Flat,Crawford,15,Lansdowne,48
+Cape Flat,Lansdowne,48,Wetton,95
+Cape Flat,Wetton,95,Ottery,68
+Cape Flat,Ottery,68,Southfield,81
+Cape Flat,Southfield,81,Heathfield,32
+Cape Flat,Heathfield,32,Retreat,74
+Northern Line,Cape Town,11,Esplanade,23
+Northern Line,Esplanade,23,Ysterplaat,102
+Northern Line,Ysterplaat,102,Kentemade,38
+Northern Line,Kentemade,38,Century City,12
+Northern Line,Century City,12,Akasia Park,1
+Northern Line,Akasia Park,1,Monte Vista,55
+Northern Line,Monte Vista,55,De Grendel,17
+Northern Line,De Grendel,17,Avondale,4
+Northern Line,Avondale,4,Oosterzee,67
+Northern Line,Oosterzee,67,Bellville,5
+Northern Line Strand,Cape Town,11,Woodstock,99
+Northern Line Strand,Woodstock,99,Salt River,78
+Northern Line Strand,Salt River,78,Koeberg Rd,41
+Northern Line Strand,Koeberg Rd,41,Maitland,50
+Northern Line Strand,Maitland,50,Woltemade,98
+Northern Line Strand,Woltemade,98,Mutual,59
+Northern Line Strand,Mutual,59,Thornton,88
+Northern Line Strand,Thornton,88,Goodwood,27
+Northern Line Strand,Goodwood,27,Vasco,91
+Northern Line Strand,Vasco,91,Elsies River,22
+Northern Line Strand,Elsies River,22,Parow,70
+Northern Line Strand,Parow,70,Tygerberg,90
+Northern Line Strand,Tygerberg,90,Bellville,5
+Northern Line Strand,Bellville,5,Kuils River,44
+Northern Line Strand,Kuils River,44,Blackheath,6
+Northern Line Strand,Blackheath,6,Meltonrose,54
+Northern Line Strand,Meltonrose,54,Eerste River,20
+Northern Line Strand,Eerste River,20,Lynedoch,49
+Northern Line Strand,Lynedoch,49,Vlottenburg,92
+Northern Line Strand,Vlottenburg,92,Du Toit,19
+Northern Line Strand,Du Toit,19,Koelenhof,42
+Northern Line Strand,Koelenhof,42,Muldersvlei,58
+Northern Line Strand,Muldersvlei,58,Klapmuts,40
+Northern Line Strand,Klapmuts,40,Paarl,69
+Northern Line Strand,Paarl,69,Huguenot,35
+Northern Line Strand,Huguenot,35,Dal Josafat,16
+Northern Line Strand,Dal Josafat,16,Mbekweni,53
+Northern Line Strand,Mbekweni,53,Wellington,94
+Southern Line,Cape Town,11,Woodstock,99
+Southern Line,Woodstock,99,Salt River,78
+Southern Line,Salt River,78,Observatory,66
+Southern Line,Observatory,66,Mowbray,56
+Southern Line,Mowbray,56,Rosebank,77
+Southern Line,Rosebank,77,Rondebosch,76
+Southern Line,Rondebosch,76,Newlands,62
+Southern Line,Newlands,62,Claremont,14
+Southern Line,Claremont,14,Harfield Rd,30
+Southern Line,Harfield Rd,30,Kenilworth,37
+Southern Line,Kenilworth,37,Wynberg,101
+Southern Line,Wynberg,101,Wittebome,96
+Southern Line,Wittebome,96,Plumstead,73
+Southern Line,Plumstead,73,Steurhof,84
+Southern Line,Steurhof,84,Dieprivier,18
+Southern Line,Dieprivier,18,Heathfield,32
+Southern Line,Heathfield,32,Retreat,74
+Southern Line,Retreat,74,Steenberg,83
+Southern Line,Steenberg,83,Lakeside,46
+Southern Line,Lakeside,46,False Bay,24
+Southern Line,False Bay,24,Muizenberg,57
+Southern Line,Muizenberg,57,St James,82
+Southern Line,St James,82,Kalk Bay,36
+Southern Line,Kalk Bay,36,Fish Hoek,25
+Southern Line,Fish Hoek,25,Sunny Cove,87
+Southern Line,Sunny Cove,87,Glencairn,26
+Southern Line,Glencairn,26,Simon's Town,79
+Worcester Line,Cape Town,11,Bellville,5
+Worcester Line,Bellville,5,Stikland,85
+Worcester Line,Stikland,85,Brackenfell,9
+Worcester Line,Brackenfell,9,Eikenfontein,21
+Worcester Line,Eikenfontein,21,Kraaifontein,43
+Worcester Line,Kraaifontein,43,Muldersvlei,58
+Worcester Line,Muldersvlei,58,Klapmuts,40
+Worcester Line,Klapmuts,40,Paarl,69
+Worcester Line,Paarl,69,Huguenot,35
+Worcester Line,Huguenot,35,Dal Josafat,16
+Worcester Line,Dal Josafat,16,Mbekweni,53
+Worcester Line,Mbekweni,53,Wellington,94
+Worcester Line,Wellington,94,Malan,51
+Worcester Line,Malan,51,Soetendal,80
+Worcester Line,Soetendal,80,Hermon,34
+Worcester Line,Hermon,34,Voelvlei,93
+Worcester Line,Voelvlei,93,Gouda,28
+Worcester Line,Gouda,28,Tulbaghweg,89
+Worcester Line,Tulbaghweg,89,Artois,2
+Worcester Line,Artois,2,Wolseley,97
+Worcester Line,Wolseley,97,Romans River,75
+Worcester Line,Romans River,75,Breë River,10
+Worcester Line,Breë River,10,Botha,8
+Worcester Line,Botha,8,Goudini Rd,29
+Worcester Line,Goudini Rd,29,Worcester,100
+Central Line,Cape Town,11,Woodstock,99
+Central Line,Woodstock,99,Salt River,78
+Central Line,Salt River,78,Koeberg Rd,41
+Central Line,Koeberg Rd,41,Maitland,50
+Central Line,Maitland,50,Ndabeni,60
+Central Line,Ndabeni,60,Pinelands,72
+Central Line,Pinelands,72,Langa,47
+Central Line,Langa,47,Bonteheuwel,7
+Central Line,Bonteheuwel,7,Netreg,61
+Central Line,Netreg,61,Heideveld,33
+Central Line,Heideveld,33,Nyanga,65
+Central Line,Nyanga,65,Philippi,71
+Central Line,Philippi,71,Stock Road,86
+Central Line,Stock Road,86,Mandalay,52
+Central Line,Mandalay,52,Nolungile,63
+Central Line,Nolungile,63,Nonkqubela,64
+Central Line,Nonkqubela,64,Khayelitsha,39
+Central Line,Khayelitsha,39,Kuyasa,45
+Central Line,Kuyasa,45,Chris Hani,13
